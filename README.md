@@ -1,4 +1,5 @@
-# JFranciscoBue
+# Soy Juan Francisco Bue.
+## JFranciscoBue en GitHub.
 
 🚀​Desarrollador Web Full Stack con experiencia académica en Soy Henry, donde desarrollé cuatro proyectos (tres individuales y uno grupal), aplicando tecnologías como:
 🔥​NestJS
