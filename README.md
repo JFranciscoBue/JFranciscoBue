@@ -21,3 +21,4 @@ Contactame en:
 
 Gmail: buejuanfrancisco@gmail.com
 Linkedin: https://www.linkedin.com/in/juan-francisco-bue-122012338/
+Telefono Celular: +5493413232826
