@@ -1,5 +1,5 @@
-# Soy Juan Francisco Bue.
-## JFranciscoBue en GitHub.
+# I´m Juan Francisco Bue.
+## JFranciscoBue in GitHub.
 
 🚀Full Stack Web Developer with academic experience at Soy Henry, where I developed four projects (three individual and one group), applying technologies such as:
 🔥NestJS
